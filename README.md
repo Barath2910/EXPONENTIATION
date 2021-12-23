@@ -26,7 +26,7 @@ exponent(a)
 ```
 
 ## Output:
-![exponentiation of a number](expo.jpg)
+![exponentiation of a number](expo.JPG)
 
 
 ## Result:
